@@ -1,4 +1,4 @@
-import yt_dlp, os, requests, re, ffmpeg
+import yt_dlp, os, requests, re
 from pyfiglet import figlet_format
 
 
